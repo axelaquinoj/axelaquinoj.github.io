@@ -54,12 +54,15 @@ ul{
     transition: all ease-in-out 250ms;
 }
 .box a:hover{
+    text-decoration: none;
     color: purple;
 }
 .box p a:hover{
+    text-decoration: none;
     color: purple;
 }
 .box p a{
     color: deepskyblue;
+    text-decoration: none;
     font-size: 20px;
 }
